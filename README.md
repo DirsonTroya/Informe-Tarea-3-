@@ -1,5 +1,7 @@
 # Informe-Tarea-3-
 
+Autor: Dirson Troya
+
 1. OBJETIVOS 
    
    Objetivo general: Identificar Circuitos en serie, funciones y elementos que son importantes del mismo 
